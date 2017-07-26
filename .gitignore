@@ -23,7 +23,6 @@ hs_err_pid*
 
 .gradle/
 .idea/
-build.gradle
 build/
 mpc/
 spring-boot-gradle.iml
