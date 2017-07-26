@@ -24,5 +24,10 @@ hs_err_pid*
 .gradle/
 .idea/
 build/
-mpc/
 spring-boot-gradle.iml
+.gitignore
+build.gradle
+gradle/
+gradlew
+gradlew.bat
+
